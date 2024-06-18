@@ -556,3 +556,4 @@ grafana:
 2. [Exemplars support for Prometheus Histogram](https://github.com/micrometer-metrics/micrometer/issues/2812)
 3. [OpenTelemetry SDK Autoconfigure](https://github.com/open-telemetry/opentelemetry-java/blob/main/sdk-extensions/autoconfigure/README.md)
 4. [Java system properties and environment variables](https://stackoverflow.com/questions/7054972/java-system-properties-and-environment-variables)
+5. up
